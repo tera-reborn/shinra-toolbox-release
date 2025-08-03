@@ -1377,6 +1377,8 @@
 41030	Common	Common	Brawler	Ground Pounder X	True		icon_skills.poundonground_tex
 41100	Common	Common	Brawler	Ground Pounder XI	False		icon_skills.poundonground_tex
 41130	Common	Common	Brawler	Ground Pounder XI	True		icon_skills.poundonground_tex
+41131	Common	Common	Brawler	Ground Pounder XI	True		icon_skills.poundonground_tex
+41132	Common	Common	Brawler	Ground Pounder XI	True		icon_skills.poundonground_tex
 50100	Common	Common	Brawler	Bull Rush I	False		icon_skills.bulldozer_tex
 50200	Common	Common	Brawler	Bull Rush II	False		icon_skills.bulldozer_tex
 50300	Common	Common	Brawler	Bull Rush III	False		icon_skills.bulldozer_tex
@@ -1737,7 +1739,10 @@
 170900	Common	Common	Brawler	Rampage IX	False		icon_skills.dashattack_tex
 170910	Common	Common	Brawler	Rampage IX	False		icon_skills.dashattack_tex
 171000	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
+171001	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
+171002	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
 171010	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
+171012	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
 180100	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
 180101	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
 180102	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
@@ -1760,6 +1765,8 @@
 200500	Common	Common	Brawler	Meat Grinder V	False		icon_skills.catchair_tex
 200600	Common	Common	Brawler	Meat Grinder VI	False		icon_skills.catchair_tex
 200700	Common	Common	Brawler	Meat Grinder VII	False		icon_skills.catchair_tex
+200701	Common	Common	Brawler	Meat Grinder VII	False		icon_skills.catchair_tex
+200702	Common	Common	Brawler	Meat Grinder VII	False		icon_skills.catchair_tex
 200800	Common	Common	Brawler	Meat Grinder VIII			icon_skills.catchair_tex
 200900	Common	Common	Brawler	Meat Grinder IX			icon_skills.catchair_tex
 201000	Common	Common	Brawler	Meat Grinder X			icon_skills.catchair_tex
@@ -1888,7 +1895,10 @@
 30900	Common	Common	Gunner	Scattershot IX	False		icon_skills.buckshot_tex
 30901	Common	Common	Gunner	Scattershot IX	False		icon_skills.buckshot_tex
 30902	Common	Common	Gunner	Scattershot IX	False		icon_skills.buckshot_tex
+30903	Common	Common	Gunner	Scattershot IX	False		icon_skills.buckshot_tex
 30930	Common	Common	Gunner	Scattershot IX	True		icon_skills.buckshot_tex
+30931	Common	Common	Gunner	Scattershot IX	True		icon_skills.buckshot_tex
+30932	Common	Common	Gunner	Scattershot IX	True		icon_skills.buckshot_tex
 31000	Common	Common	Gunner	Scattershot X	False		icon_skills.buckshot_tex
 31001	Common	Common	Gunner	Scattershot X	False		icon_skills.buckshot_tex
 31002	Common	Common	Gunner	Scattershot X	False		icon_skills.buckshot_tex
@@ -4754,7 +4764,11 @@
 80900	Common	Common	Slayer	Overhand Strike IX	False		icon_skills.cuttingslash_tex
 80930	Common	Common	Slayer	Overhand Strike IX	True		icon_skills.cuttingslash_tex
 81000	Common	Common	Slayer	Overhand Strike X	False		icon_skills.cuttingslash_tex
+81001	Common	Common	Slayer	Overhand Strike X	False		icon_skills.cuttingslash_tex
+81002	Common	Common	Slayer	Overhand Strike X	False		icon_skills.cuttingslash_tex
 81030	Common	Common	Slayer	Overhand Strike X	True		icon_skills.cuttingslash_tex
+81031	Common	Common	Slayer	Overhand Strike X	True		icon_skills.cuttingslash_tex
+81032	Common	Common	Slayer	Overhand Strike X	True		icon_skills.cuttingslash_tex
 81100	Common	Common	Slayer	Overhand Strike XI	False		icon_skills.cuttingslash_tex
 81130	Common	Common	Slayer	Overhand Strike XI	True		icon_skills.cuttingslash_tex
 81200	Common	Common	Slayer	Overhand Strike XII	False		icon_skills.cuttingslash_tex
@@ -4933,6 +4947,9 @@
 270100	Common	Common	Slayer	Savage Strike	False	hit 1	icon_skills.slidingslash_tex
 270130	Common	Common	Slayer	Savage Strike	False		icon_skills.slidingslash_tex
 270131	Common	Common	Slayer	Savage Strike	False		icon_skills.slidingslash_tex
+270140	Common	Common	Slayer	Savage Strike	False	hit 1	icon_skills.slidingslash_tex
+270150	Common	Common	Slayer	Savage Strike	False		icon_skills.slidingslash_tex
+270151	Common	Common	Slayer	Savage Strike	False		icon_skills.slidingslash_tex
 270190	Common	Common	Slayer	Savage Strike	False		icon_skills.slidingslash_tex
 280100	Common	Common	Slayer	Unsheathe	False		icon_skills.drawsword_tex
 280101	Common	Common	Slayer	Unsheathe	False		icon_skills.drawsword_tex
@@ -5708,6 +5725,8 @@
 30899	Common	Common	Valkyrie	Glaive Strike VIII	False		icon_skills.throwglave_tex
 30900	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
 30930	Common	Common	Valkyrie	Glaive Strike IX	True		icon_skills.throwglave_tex
+30901	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
+30931	Common	Common	Valkyrie	Glaive Strike IX	True		icon_skills.throwglave_tex
 30999	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
 35100	Common	Common	Valkyrie	Glaive Strike I	False		icon_skills.throwglave_tex
 35130	Common	Common	Valkyrie	Glaive Strike I	True		icon_skills.throwglave_tex
@@ -5727,6 +5746,8 @@
 35830	Common	Common	Valkyrie	Glaive Strike VIII	True		icon_skills.throwglave_tex
 35900	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
 35930	Common	Common	Valkyrie	Glaive Strike IX	True		icon_skills.throwglave_tex
+35901	Common	Common	Valkyrie	Glaive Strike IX	False		icon_skills.throwglave_tex
+35931	Common	Common	Valkyrie	Glaive Strike IX	True		icon_skills.throwglave_tex
 40100	Common	Common	Valkyrie	Charge I	False		icon_skills.dashcut_tex
 40110	Common	Common	Valkyrie	Charge I	False		icon_skills.dashcut_tex
 40111	Common	Common	Valkyrie	Charge I	False		icon_skills.dashcut_tex
@@ -5989,9 +6010,13 @@
 90999	Common	Common	Valkyrie	Ground Bash IX	False		icon_skills.cutting_tex
 91000	Common	Common	Valkyrie	Ground Bash X	False		icon_skills.cutting_tex
 91030	Common	Common	Valkyrie	Ground Bash X	True		icon_skills.cutting_tex
+91001	Common	Common	Valkyrie	Ground Bash X	False		icon_skills.cutting_tex
+91031	Common	Common	Valkyrie	Ground Bash X	True		icon_skills.cutting_tex
 91099	Common	Common	Valkyrie	Ground Bash X	False		icon_skills.cutting_tex
 91100	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
 91130	Common	Common	Valkyrie	Ground Bash XI	True		icon_skills.cutting_tex
+91101	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
+91131	Common	Common	Valkyrie	Ground Bash XI	True		icon_skills.cutting_tex
 91199	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
 95100	Common	Common	Valkyrie	Ground Bash I	False		icon_skills.cutting_tex
 95130	Common	Common	Valkyrie	Ground Bash I	True		icon_skills.cutting_tex
@@ -6015,6 +6040,8 @@
 96030	Common	Common	Valkyrie	Ground Bash X	True		icon_skills.cutting_tex
 96100	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
 96130	Common	Common	Valkyrie	Ground Bash XI	True		icon_skills.cutting_tex
+96101	Common	Common	Valkyrie	Ground Bash XI	False		icon_skills.cutting_tex
+96131	Common	Common	Valkyrie	Ground Bash XI	True		icon_skills.cutting_tex
 100100	Common	Common	Valkyrie	Dream Slash I	False		icon_skills.split_tex
 100120	Common	Common	Valkyrie	Dream Slash I	False		icon_skills.split_tex
 100130	Common	Common	Valkyrie	Dream Slash I	True		icon_skills.split_tex
@@ -6058,6 +6085,9 @@
 101100	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
 101120	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
 101130	Common	Common	Valkyrie	Dream Slash XI	True		icon_skills.split_tex
+101101	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+101121	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+101131	Common	Common	Valkyrie	Dream Slash XI	True		icon_skills.split_tex
 101199	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
 105100	Common	Common	Valkyrie	Dream Slash I	False		icon_skills.split_tex
 105120	Common	Common	Valkyrie	Dream Slash I	False		icon_skills.split_tex
@@ -6092,6 +6122,9 @@
 106100	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
 106120	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
 106130	Common	Common	Valkyrie	Dream Slash XI	True		icon_skills.split_tex
+106101	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+106121	Common	Common	Valkyrie	Dream Slash XI	False		icon_skills.split_tex
+106131	Common	Common	Valkyrie	Dream Slash XI	True		icon_skills.split_tex
 110100	Common	Common	Valkyrie	Shining Crescent I	False	hit 1	icon_skills.crescentcut_tex
 110101	Common	Common	Valkyrie	Shining Crescent I	False	hit 2	icon_skills.crescentcut_tex
 110130	Common	Common	Valkyrie	Shining Crescent I	True	hit 1	icon_skills.crescentcut_tex
@@ -6719,10 +6752,12 @@
 400110	Common	Common	Warrior	Blade Waltz	False		icon_skills.doublesworddance_tex
 400111	Common	Common	Warrior	Blade Waltz	False		icon_skills.doublesworddance_tex
 400112	Common	Common	Warrior	Blade Waltz	False	hit 2	icon_skills.doublesworddance_tex
+400113	Common	Common	Warrior	Blade Waltz	False	hit 2	icon_skills.doublesworddance_tex
 400119	Common	Common	Warrior	Blade Waltz	False		icon_skills.doublesworddance_tex
 400120	Common	Common	Warrior	Blade Waltz	False		icon_skills.doublesworddance_tex
 400121	Common	Common	Warrior	Blade Waltz	False		icon_skills.doublesworddance_tex
 400122	Common	Common	Warrior	Blade Waltz	False	hit 2	icon_skills.doublesworddance_tex
+400123	Common	Common	Warrior	Blade Waltz	False	hit 2	icon_skills.doublesworddance_tex
 400129	Common	Common	Warrior	Blade Waltz	False		icon_skills.doublesworddance_tex
 410100	Common	Common	Warrior	Aerial Scythe	False	hit 1	icon_skills.tumblingattack_tex
 410130	Common	Common	Warrior	Aerial Scythe	False		icon_skills.tumblingattack_tex
