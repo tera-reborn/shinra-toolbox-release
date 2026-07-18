@@ -1377,7 +1377,7 @@
 41030	Common	Common	Brawler	Ground Pounder X	True		icon_skills.poundonground_tex
 41100	Common	Common	Brawler	Ground Pounder XI	False		icon_skills.poundonground_tex
 41130	Common	Common	Brawler	Ground Pounder XI	True		icon_skills.poundonground_tex
-41131	Common	Common	Brawler	Ground Pounder XI	True		icon_skills.poundonground_tex
+41131	Common	Common	Brawler	Ground Pounder XI	False		icon_skills.poundonground_tex
 41132	Common	Common	Brawler	Ground Pounder XI	True		icon_skills.poundonground_tex
 50100	Common	Common	Brawler	Bull Rush I	False		icon_skills.bulldozer_tex
 50200	Common	Common	Brawler	Bull Rush II	False		icon_skills.bulldozer_tex
