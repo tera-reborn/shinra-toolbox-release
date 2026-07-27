@@ -1906,6 +1906,7 @@
 31100	Common	Common	Gunner	Scattershot XI	False		icon_skills.buckshot_tex
 31101	Common	Common	Gunner	Scattershot XI	False		icon_skills.buckshot_tex
 31102	Common	Common	Gunner	Scattershot XI	False		icon_skills.buckshot_tex
+31103	Common	Common	Gunner	Scattershot XI	False		icon_skills.buckshot_tex
 31130	Common	Common	Gunner	Scattershot XI	True		icon_skills.buckshot_tex
 40100	Common	Common	Gunner	Point Blank I	False		icon_skills.gunbrandish_tex
 40101	Common	Common	Gunner	Point Blank I	False		icon_skills.gunbrandish_tex
@@ -1976,8 +1977,10 @@
 51000	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
 51010	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
 51011	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
+51016	Common	Common	Gunner	Burst Fire X	False		icon_skills.gatlingshot_tex
 51020	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 51021	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
+51026	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 51031	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 51032	Common	Common	Gunner	Targeted Burst Fire	False		icon_skills.gatlingshot_awaken_tex
 60100	Common	Common	Gunner	Time Bomb I	False		icon_skills.timebombshot_tex

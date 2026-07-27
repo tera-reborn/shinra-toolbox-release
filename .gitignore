@@ -1,1 +1,4 @@
 /add_firewall_exception.bat
+.gitignore
+.gitattributes
+.idea/
