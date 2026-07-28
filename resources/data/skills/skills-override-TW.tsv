@@ -4,3 +4,6 @@
 8400080	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
 8400100	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
 8400120	Common	Common	Common	Noctenium Infusion (Off)			icon_items.union_supplies5_tex
+51016	Common	Common	Gunner	Burst Fire X!	False		icon_skills.gatlingshot_tex
+51026	Common	Common	Gunner	Targeted Burst Fire!	False		icon_skills.gatlingshot_awaken_tex
+51036	Common	Common	Gunner	Targeted Burst Fire!	False		icon_skills.gatlingshot_awaken_tex
