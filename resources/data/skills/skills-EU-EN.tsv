@@ -1169,6 +1169,10 @@
 370100	Common	Common	Berserker	Unleashed: Beast Fury	False		icon_skills.ragerush_tex
 370130	Common	Common	Berserker	Unleashed: Beast Fury	True		icon_skills.ragerush_tex
 380100	Common	Common	Berserker	Unleash	False		icon_skills.rage2_tex
+400100	Common	Common	Berserker	Colosal Fury	False		icon_skills.nukeleap_awaken_tex
+400130	Common	Common	Berserker	Colosal Fury	False		icon_skills.nukeleap_awaken_tex
+400131	Common	Common	Berserker	Colosal Fury	False		icon_skills.nukeleap_awaken_tex
+400132	Common	Common	Berserker	Colosal Fury	False		icon_skills.nukeleap_awaken_tex
 9100100	Common	Common	Berserker	Apex Urgency	False		icon_skills.awakenaura_tex
 10100	Common	Common	Brawler	Punch I	False	hit 1	icon_skills.comboattack01_tex
 10101	Common	Common	Brawler	Punch I	False	hit 2	icon_skills.comboattack02_tex
@@ -4037,6 +4041,8 @@
 190430	Common	Common	Ninja	Chakra Thrust IV	True		icon_skills.c12_evadestingshot
 190500	Common	Common	Ninja	Chakra Thrust V	False		icon_skills.c12_evadestingshot
 190530	Common	Common	Ninja	Chakra Thrust V	True		icon_skills.c12_evadestingshot
+190540	Common	Common	Ninja	Chakra Thrust V	False		icon_skills.c12_evadestingshot
+190541	Common	Common	Ninja	Chakra Thrust V	True		icon_skills.c12_evadestingshot
 200100	Common	Common	Ninja	Clone Jutsu	False		icon_skills.c12_transform
 210100	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
 210111	Common	Common	Ninja	Boomerang Shuriken	False		icon_skills.bumelang_tex
