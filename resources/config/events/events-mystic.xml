@@ -1,19 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <events>
-
-	<!-- Unleash berserker -->
-	<abnormality ingame="true" trigger="Added" target="Party">
-		<abnormalities>
-			<abnormality>401705</abnormality>
-		</abnormalities>
-		<actions>
-			<notify>
-				<balloon title_text="{abnormality_name}" body_text="{abnormality_name}" display_time="1000" />
-				<text_to_speech text="{abnormality_name}" voice_gender="Male" voice_age="Adult"  voice_position="0" volume="30" rate="1"/>
-			</notify>
-		</actions>
-	</abnormality>
-
 	<!-- United Thrall of Protection (endurance buff) -->
 	<abnormality active="true" ingame="true" remaining_seconds_before_trigger="40" rewarn_timeout_seconds="5" trigger="MissingDuringFight" target="PartySelfExcluded">
 		<area_boss_blacklist>

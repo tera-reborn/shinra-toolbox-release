@@ -2,7 +2,7 @@
 <events>
 
 	<!-- Adrenaline Rush -->
-	<abnormality active="true" ingame="true" trigger="Added" target="Self" ignore_classes="Mystic,Priest">
+	<abnormality active="true" ingame="true" trigger="Added" target="Self">
 		<abnormalities>
 			<abnormality>200701</abnormality>
 			<abnormality>200700</abnormality>
@@ -15,7 +15,7 @@
 	</abnormality>
 	
 	<!-- Priest boosts -->
-	<abnormality active="true" priority="8" ingame="true" trigger="Added" ignore_classes="Priest,Mystic" target="Self">
+	<abnormality active="true" priority="8" ingame="true" trigger="Added" ignore_classes="Priest" target="Self">
 		<abnormalities>
 			<abnormality>805803</abnormality>
 		</abnormalities>
@@ -46,7 +46,7 @@
 	</abnormality>
 	
 	<!-- Mystic boosts -->
-	<abnormality active="true" priority="8" ingame="true" trigger="Added" ignore_classes="Mystic,Priest" target="Self">
+	<abnormality active="true" priority="8" ingame="true" trigger="Added" ignore_classes="Mystic" target="Self">
 		<abnormalities>
 			<abnormality>702004</abnormality>
 		</abnormalities>
@@ -82,7 +82,7 @@
 	</abnormality>
 	
 	<!-- Bahaar 30%- laser target debuff -->
-	    <abnormality active="true" priority="1" rewarn_timeout_seconds="4" ingame="true" trigger="Added" target="Self">
+  <abnormality active="true" priority="1" rewarn_timeout_seconds="4" ingame="true" trigger="Added" target="Self">
 		<abnormalities>
 		    <abnormality>90442502</abnormality>
 		</abnormalities>
@@ -312,7 +312,7 @@
 	</abnormality>
 
 	<!-- 1.5 Dragon buff timer -->
-	<abnormality active="false" ingame="true" trigger="Added" target="Self" priority="1" ignore_classes="Mystic,Priest">
+	<abnormality active="false" ingame="true" trigger="Added" target="Self" priority="1">
 		<abnormalities>
 			<abnormality>6001</abnormality>
 			<abnormality>6003</abnormality>
@@ -331,11 +331,15 @@
 	</abnormality>
 
 	<!-- 2.0 Dragon buff timer -->
-	<abnormality active="false" ingame="true" trigger="Added" target="Self" priority="1" ignore_classes="Mystic,Priest">
+	<abnormality active="false" ingame="true" trigger="Added" target="Self" priority="1">
 		<abnormalities>
 			<abnormality>6002</abnormality>
 			<abnormality>6004</abnormality>
 			<abnormality>6013</abnormality>
+			<abnormality>599991101</abnormality>
+			<abnormality>599991102</abnormality>
+			<abnormality>599991103</abnormality>
+			<abnormality>599991105</abnormality>
 		</abnormalities>
 		<actions>
 			<notify>
