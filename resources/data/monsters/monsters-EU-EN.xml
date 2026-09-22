@@ -18299,6 +18299,22 @@
 		<Monster name="Mystic Pylon" id="6002" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Clawrider Reset Stone" id="6003" isBoss="False" hp="0" speciesId="0" />
 	</Zone>
+  <Zone id="2801" name="Testing Grounds">
+    <Monster name="Testing Bahaar" id="1000" isBoss="True" hp="0" speciesId="0" />
+  </Zone>
+  <Zone id="2814" name="Abyssal Prison">
+    <Monster name="Nightmare Antaroth" id="1000" isBoss="True" hp="31041391474" speciesId="0" />
+  </Zone>
+  <Zone id="2816" name="Kelsaik Hall">
+    <Monster name="Nightmare Kelsaik" id="1000" isBoss="True" hp="32341391474" speciesId="0" />
+    <Monster name="Nightmare Baby Kelsaik" id="1001" isBoss="False" hp="401391474" speciesId="0" />
+  </Zone>
+  <Zone id="2818" name="Velika Invasion">
+    <Monster name="Revived Cygnus" id="1007" isBoss="True" hp="7520000000" speciesId="0" />
+  </Zone>
+  <Zone id="2822" name="Velika Invasion">
+    <Monster name="Revived Cygnus" id="1007" isBoss="True" hp="10560000000" speciesId="0" />
+  </Zone>
 	<Zone id="3001" name="Bastion of Lok (Solo)" >
 		<Monster name="Murdranak" id="101" isBoss="False" hp="50000" speciesId="0" />
 		<Monster name="Weapon Crate" id="102" isBoss="False" hp="1723" speciesId="0" />
